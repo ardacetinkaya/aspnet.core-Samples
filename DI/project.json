@@ -1,13 +1,13 @@
 {
-    "version": "1.0.0-beta8",
+    "version": "1.0.0",
     "packExclude": [
         "**.kproj",
         "**.user",
         "**.vspscc"
     ],
     "dependencies": {
-        "Microsoft.Framework.Logging.Console": "1.0.0-beta8",
-        "Microsoft.Framework.DependencyInjection": "1.0.0-beta8"
+        "Microsoft.Extensions.Logging.Console": "1.0.0-rc1-*",
+        "Microsoft.Extensions.DependencyInjection": "1.0.0-rc1-*"
     },
     "commands": {
         "DI": "DI"

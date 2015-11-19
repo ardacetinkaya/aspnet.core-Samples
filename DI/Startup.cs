@@ -1,5 +1,5 @@
 using System;
-using Microsoft.Framework.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection;
 namespace DI.App
 {
     
